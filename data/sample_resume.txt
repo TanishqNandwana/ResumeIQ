@@ -1,0 +1,43 @@
+Alex Mercer
+San Francisco, CA | alex.mercer.dev@example.com | (555) 234-5678 | linkedin.com/in/alexmercer-dev | github.com/alexmercer-dev
+
+PROFESSIONAL SUMMARY
+Results-driven Machine Learning Engineer with 3+ years of experience designing and deploying scalable predictive models, NLP pipelines, and data-intensive distributed systems. Proficient in Python, PyTorch, TensorFlow, Scikit-Learn, and cloud infrastructure on AWS. Spearheaded end-to-end machine learning lifecycle from exploratory data analysis to Kubernetes production microservices.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, SQL, TypeScript, Bash, C++
+• Machine Learning & NLP: PyTorch, TensorFlow, Scikit-Learn, Hugging Face, BERT, NLTK, spaCy, Word2Vec, TF-IDF
+• Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, CI/CD, Git, Linux
+• Databases & Big Data: PostgreSQL, MongoDB, Redis, Apache Spark
+• Tools & Methodologies: REST APIs, Fast API, Docker, Agile/Scrum, Unit Testing
+
+WORK EXPERIENCE
+Machine Learning Engineer | Apex AI Technologies | San Francisco, CA
+June 2022 – Present
+• Architected and deployed an end-to-end NLP document classification pipeline using Hugging Face Transformers and PyTorch, achieving 94.2% precision and reducing manual triage time by 42%.
+• Engineered distributed feature preprocessing pipelines using Apache Spark and Python, scaling throughput to 10M+ daily records while reducing memory consumption by 35%.
+• Containerized microservices using Docker and orchestrated deployments on AWS Elastic Kubernetes Service (EKS) with automated CI/CD GitHub Actions.
+• Optimized model inference latency from 180ms to 42ms per request utilizing ONNX runtime and Redis semantic caching.
+
+Data Science Intern | Quantum Analytics Labs | Boston, MA
+June 2021 – May 2022
+• Developed customer churn prediction models using Scikit-Learn (Random Forest, Gradient Boosting), increasing prediction recall by 18%.
+• Automated ETL pipelines using Python and SQL to aggregate metrics across 500k+ customer transactions.
+• Collaborated in cross-functional Agile sprints with senior engineers to deliver executive Tableau dashboards.
+
+TECHNICAL PROJECTS
+Crop Yield Prediction Engine | Python, Scikit-Learn, FastAPI, Docker
+• Engineered a multi-variable regression model predicting crop yield with 91.5% accuracy across 12 climatic variables.
+• Built a RESTful prediction API using FastAPI and deployed via Docker container on AWS EC2 with 99.9% uptime.
+
+Neural Search & Semantic Information Retrieval | PyTorch, Word2Vec, Streamlit
+• Implemented a semantic document search engine using dense Word2Vec embeddings and cosine similarity.
+• Evaluated retrieval performance against baseline TF-IDF algorithms, improving Mean Reciprocal Rank (MRR) by 27%.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2018 – 2022
+Relevant Coursework: Natural Language Processing, Machine Learning, Distributed Systems, Data Structures & Algorithms
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect – Associate (2023)

@@ -1,0 +1,44 @@
+Alex Mercer
+San Francisco, CA | alex.mercer.dev@example.com | (555) 234-5678 | linkedin.com/in/alexmercer-dev | github.com/alexmercer-dev
+
+PROFESSIONAL SUMMARY
+Innovative Senior Machine Learning Engineer with 4+ years of expertise in NLP architectures, Large Language Models (LLMs), RAG pipelines, and high-throughput microservices. Proven success engineering enterprise search and generative AI systems using Python, PyTorch, Hugging Face, LangChain, and AWS Kubernetes. Spearheaded high-concurrency systems scaling to 15M+ requests with sub-50ms latency.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, SQL, TypeScript, Bash, C++, Go
+• Machine Learning & NLP: PyTorch, TensorFlow, Scikit-Learn, Hugging Face, LLMs, LangChain, RAG, BERT, NLTK, spaCy, Word2Vec, TF-IDF
+• Cloud & DevOps: AWS (EC2, S3, EKS, Lambda), Docker, Kubernetes, Terraform, CI/CD, Git, Linux
+• Databases & Big Data: PostgreSQL, MongoDB, Redis, Apache Spark, Apache Kafka, Snowflake
+• Tools & Methodologies: REST APIs, FastAPI, Microservices, Agile/Scrum, Unit Testing, System Design
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | Apex AI Technologies | San Francisco, CA
+June 2022 – Present
+• Architected and deployed an end-to-end RAG and document intelligence pipeline utilizing LangChain, Hugging Face Transformers, and PyTorch, achieving 96.8% answer accuracy and slashing customer search latency by 55%.
+• Engineered event-driven streaming ingestion with Apache Kafka and Apache Spark, handling 15M+ daily documents with 99.99% availability.
+• Containerized microservices using Docker and automated GitOps Kubernetes deployments on AWS EKS with Prometheus monitoring.
+• Optimized vector similarity search latency from 180ms to 32ms per query utilizing Redis semantic caching and HNSW indexing.
+
+Data Science Intern | Quantum Analytics Labs | Boston, MA
+June 2021 – May 2022
+• Developed customer churn prediction models using Scikit-Learn (Random Forest, Gradient Boosting), increasing prediction recall by 18%.
+• Automated ETL pipelines using Python and SQL to aggregate metrics across 500k+ customer transactions.
+• Collaborated in cross-functional Agile sprints with senior engineers to deliver executive Tableau dashboards.
+
+TECHNICAL PROJECTS
+Enterprise RAG Knowledge Assistant | Python, LangChain, PyTorch, FastAPI, Docker
+• Designed a production Retrieval-Augmented Generation (RAG) platform indexing 250k enterprise documents with hybrid TF-IDF and dense neural vector retrieval.
+• Packaged and deployed containerized REST APIs via Docker on AWS ECS, achieving 99.95% uptime and serving 2M+ monthly queries.
+
+Crop Yield Prediction Engine | Python, Scikit-Learn, FastAPI, Docker
+• Engineered a multi-variable regression model predicting crop yield with 91.5% accuracy across 12 climatic variables.
+• Built a RESTful prediction API using FastAPI and deployed via Docker container on AWS EC2 with 99.9% uptime.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2018 – 2022
+Relevant Coursework: Natural Language Processing, Machine Learning, Distributed Systems, Data Structures & Algorithms
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect – Associate (2023)
+• Certified Kubernetes Administrator (CKA) (2024)

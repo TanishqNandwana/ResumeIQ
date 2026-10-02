@@ -1,0 +1,29 @@
+Job Title: Senior Machine Learning Engineer (NLP / LLM Systems)
+Company: Nexus Cognitive Systems
+Location: San Francisco, CA (Hybrid)
+
+ABOUT THE ROLE
+Nexus Cognitive Systems is seeking an experienced Senior Machine Learning Engineer to join our Core AI Platform team. You will lead the design, fine-tuning, evaluation, and production deployment of state-of-the-art NLP, Information Retrieval, and Large Language Model architectures.
+
+RESPONSIBILITIES
+• Architect, train, fine-tune, and evaluate deep learning models for natural language processing and information extraction.
+• Build scalable microservice inference pipelines utilizing Python, PyTorch, and Hugging Face Transformers.
+• Implement production-grade retrieval systems using vector embeddings, semantic search, and TF-IDF hybrid retrieval algorithms.
+• Deploy scalable containerized services using Docker, Kubernetes, and AWS cloud infrastructure.
+• Maintain automated CI/CD pipelines, unit testing suites, and model monitoring dashboards.
+• Collaborate cross-functionally with product managers, data engineers, and frontend teams in an Agile environment.
+
+REQUIRED QUALIFICATIONS & SKILLS
+• 3+ years of professional software engineering and machine learning experience.
+• Strong programming proficiency in Python and SQL.
+• Deep expertise with ML frameworks: PyTorch, TensorFlow, Scikit-Learn, and Hugging Face.
+• Practical experience in Natural Language Processing, text preprocessing, tokenization, NER, and Word2Vec/transformer embeddings.
+• Experience with cloud and containerization technologies: AWS, Docker, Kubernetes, and CI/CD pipelines.
+• Solid background in database systems including PostgreSQL and Redis caching.
+• Bachelor's degree in Computer Science, Data Science, Software Engineering, or related technical field.
+
+PREFERRED QUALIFICATIONS
+• Experience with Large Language Models (LLMs), LangChain, and RAG architectures.
+• Familiarity with Apache Spark, Kafka, or distributed data processing.
+• Experience in system design, microservices, and REST API development.
+• Strong communication and collaborative problem-solving skills.

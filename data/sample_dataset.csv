@@ -1,0 +1,9 @@
+pair_id,role_title,resume_candidate,expected_skills_count,matched_skills_count,ground_truth_match_label,notes
+1,Machine Learning Engineer,Alex Mercer (ML),15,13,High,Strong PyTorch/NLP/AWS match with minor LLM gap
+2,Full Stack Software Engineer,Devon Chen (FullStack),14,12,High,Strong React/TypeScript/Node.js/PostgreSQL alignment
+3,Data Analyst,Maya Patel (Analyst),12,11,High,Strong SQL/Tableau/Python/A-B Testing match
+4,Frontend Developer,Jordan Taylor (Frontend),10,9,High,Strong Next.js/Tailwind/TypeScript coverage
+5,DevOps / Cloud Engineer,Samira Khan (DevOps),13,11,High,Strong Kubernetes/Terraform/AWS/CI-CD match
+6,Machine Learning Engineer,Jordan Taylor (Frontend),15,2,Low,Cross-domain candidate: frontend profile applied to ML role
+7,Data Analyst,Alex Mercer (ML),12,8,Medium,ML engineer applied to Data Analyst role with partial overlap
+8,DevOps Engineer,Devon Chen (FullStack),13,7,Medium,FullStack developer with basic Docker/CI-CD applied to senior DevOps

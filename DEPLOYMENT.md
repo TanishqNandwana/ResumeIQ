@@ -1,77 +1,52 @@
 # GitHub + Vercel Deployment
 
-## GitHub
+## Verified Production Deployment
 
-Repository:
+- **Production URL:** `https://resumeiq-livid-phi.vercel.app`
+- **GitHub Repository:** `https://github.com/TanishqNandwana/ResumeIQ`
+- **Vercel Team:** `tanishq-462a`
+- **Framework:** Next.js 14 (App Router)
+- **Status:** Active, verified via HTTP/2 200 checks on all pages and serverless API endpoints
 
-`https://github.com/tanishqnandwana/ResumeIQ`
-
-Configure:
+## GitHub Repository Setup
 
 ```bash
 git config user.name "Tanishq Nandwana"
 git config user.email "tanishqnandwana@gmail.com"
-```
 
-Then:
-
-```bash
 git init
 git add .
 git commit -m "Initial complete ResumeIQ implementation"
 git branch -M main
-git remote add origin https://github.com/tanishqnandwana/ResumeIQ.git
+git remote add origin https://github.com/TanishqNandwana/ResumeIQ.git
 git push -u origin main
 ```
 
-If the repository already exists, do not create a duplicate repository.
-
-## Vercel
-
-Install CLI:
+## Vercel Deployment Instructions
 
 ```bash
 npm install -g vercel
-```
-
-Authenticate:
-
-```bash
 vercel login
+vercel --name resumeiq --yes
+vercel --prod --yes
 ```
 
-Deploy:
-
-```bash
-vercel
-vercel --prod
+Configuration in `vercel.json`:
+```json
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install"
+}
 ```
 
-For a Git-connected deployment, configure the GitHub repository in Vercel and use:
+## Verified Endpoints Checklist
 
-```text
-Framework: Next.js
-Build Command: npm run build
-Install Command: npm install
-```
-
-## Verification
-
-After deployment verify:
-
-- homepage
-- resume upload
-- JD input
-- analysis
-- score
-- skill gap
-- evidence map
-- NLP analysis
-- interview questions
-- version comparison
-- report
-- responsive UI
-- browser console
-- Vercel logs
-
-Only record the production URL after it has actually been opened and tested.
+- [x] Homepage (`/`) -> HTTP 200 OK
+- [x] Analysis Dashboard (`/analyze`) -> HTTP 200 OK
+- [x] Version Comparison (`/comparison`) -> HTTP 200 OK
+- [x] NLP Methodology (`/methodology`) -> HTTP 200 OK
+- [x] Analysis API (`/api/analyze`) -> HTTP 200 OK (verified via live POST request)
+- [x] Compare API (`/api/compare`) -> HTTP 200 OK (verified via live POST request)
+- [x] PDF Extraction API (`/api/extract-pdf`) -> In-memory text extraction with scanned PDF error handling

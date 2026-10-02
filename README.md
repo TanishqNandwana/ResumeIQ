@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![NLP Mini-Project](https://img.shields.io/badge/Coursework-Semester%20VII%20NLP-purple)](#)
 
-> **Live Deployment:** [https://resumeiq-two.vercel.app](https://resumeiq-two.vercel.app)  
+> **Live Deployment:** [https://resumeiq-livid-phi.vercel.app](https://resumeiq-livid-phi.vercel.app)  
 > **GitHub Repository:** [https://github.com/tanishqnandwana/ResumeIQ](https://github.com/tanishqnandwana/ResumeIQ)  
 > **Author:** Tanishq Nandwana (`tanishqnandwana@gmail.com`)
 
